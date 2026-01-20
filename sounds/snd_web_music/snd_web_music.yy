@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_web_music",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":40.489796,
+  "name":"snd_web_music",
+  "parent":{
+    "name":"group_music",
+    "path":"folders/Sounds/sounds_mini_games/sounds_web/group_music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_web_music.mp3",
+  "type":0,
+  "volume":0.1,
+}

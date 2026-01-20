@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_int_menu_music_theme",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":73.84816,
+  "name":"snd_int_menu_music_theme",
+  "parent":{
+    "name":"group_music",
+    "path":"folders/Sounds/sounds_introducao/group_music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_int_menu_music_theme.wav",
+  "type":0,
+  "volume":0.09,
+}

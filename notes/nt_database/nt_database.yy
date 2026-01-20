@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nt_database",
+  "name":"nt_database",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

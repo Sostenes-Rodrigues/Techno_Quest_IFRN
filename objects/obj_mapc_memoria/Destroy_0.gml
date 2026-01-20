@@ -1,0 +1,1 @@
+obj_mapc_botao_cooler.can_pressed = true

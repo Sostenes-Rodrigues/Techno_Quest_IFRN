@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nt_modi_som",
+  "name":"nt_modi_som",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

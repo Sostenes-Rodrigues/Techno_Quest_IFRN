@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_int_player_step2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.24455783,
+  "name":"snd_int_player_step2",
+  "parent":{
+    "name":"group_geral",
+    "path":"folders/Sounds/sounds_introducao/group_geral.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_int_player_step2.ogg",
+  "type":0,
+  "volume":0.8,
+}

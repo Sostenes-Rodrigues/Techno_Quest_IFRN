@@ -1,0 +1,78 @@
+FAZER AGORA: 
+
+Imagens dos tutoriais
+
+BOTÃO UM AVISO GRANDE NA TELA QUE VAI DESAPARECENDO QUANDO O PLAYER "QUEBRAR O JOGO"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEITO - 0 - Fazer os campos de divisão                                           
+1 - Visual do transformador
+1.1 - 
+2 - Visual do registro
+3 - Lista com todos os registros
+4 - Lista com todos os objetivos de fases
+5 - Desenhar o icon do item selecionado
+5.1 - Mudar o desenho e o texto ao selecionar ou não um item
+6 - Desenhar os recipientes
+7 - Criar o obj da materia (protons, neutrons e eletrons)
+8 - 
+
+??? - Fazer o botão para resetar a fase
+
+No obj_control:
+	elemento no draw:
+
+	elementos no gui:
+
+
+
+a lógica para o teste do que forma com x pro, y ne e z ele
+é criar contantes ou enum para eles terem uma lista ou um dicionario que quarde o total de protons, neutrons e eletrons
+Caso esteja certo, mas o número errado de neutrons, vai dar algum problema
+Perguntar ao chat, todos os elementos possiveis que possam ser feitos com o disponivel e tbm referente as moleculas
+
+						
+						
+						/// Ao pegar as instancias, salvar no maneger a quant de p, n e e ///
+						/// Ajeitar o espaço entre as gridsc ///
+		O metodo de pegar as instancias retorna a lista das instancias até chegar no local dos cases, depois dos cases, testa se a variavel
+		que está quardando as instancias tem algo dentro (input ou output), se tiver, os conts do maneger são zerados, essa lista é lida num
+		for vendo a variavel do tipo e somando os conts no maneger, assim tento salvo no maneger quando o dupli for usado
+		SÓ SALVAR NO MANEGER SE TEM UMA RECEITA COM ESSES COMPONENENTE E SE A TRANSFORMAÇÃO FOR CONCLUIDA
+
+		PASSAR A LISTA DAS SPRITES PELO TIPO PARA O OBJ CONTROL (ESTÁ NOS RECIPIENTES) /////  LEMBRAR DE TIRAR DOS RECIPIENTES E MODIFICAR O CÓDIGO
+
+
+		Teste do que vai ser criado, tendo as informações no maneger
+
+A "receita" é só um guia do que fazer em seguida, mas o player pode fazer os que quiser, então quando ele fazer o da lista, fazer o teste se o proximo já está desbloqueado ou não
+
+Dar um game fell no espaço da função do botão apertado, quando o player apertar um dos 3 botões do meio, caso não seja possivel executar sua função
+
+Ver oque fazer caso o player bote alguma coisa perto de um dos botões (materia, elemento ou molecula)
+
+
+Lógica de como fazer a interação do transformador e as materias:
+struct
+cont_proton
+cont_neutron
+cont_eletron
+
+Como fazer o teste para diminuir quando tirar a materia?
+:
+testar todas as intancias na area do input, soma os seus tipos (fazer isso ser dinamico para o input e o output)
+Proposta 1: fazer cada materia testar se está na area do input

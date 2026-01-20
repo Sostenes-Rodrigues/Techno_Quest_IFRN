@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_prog_lose",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":2.589297,
+  "name":"snd_prog_lose",
+  "parent":{
+    "name":"group_geral",
+    "path":"folders/Sounds/sounds_mini_games/sounds_prog/group_geral.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_prog_lose.wav",
+  "type":0,
+  "volume":0.17,
+}

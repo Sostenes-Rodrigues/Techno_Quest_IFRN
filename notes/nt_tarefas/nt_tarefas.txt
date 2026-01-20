@@ -1,0 +1,52 @@
+Fazer Agora: Passar para um novo projeto para garantir as configurações certas (lembrar de ajeitar o database se for fazer isso)
+	
+	Ir ajeitando a página do itch.io
+	
+	
+	Criar a versão web e ver as alterações necessarias
+	
+
+	Pausar todos os sons quando o jogo peder o foco
+	
+	Fazer algum modo de rever ou sei lá do tutorial
+	
+	
+	Escrever a estrutura de cada tutorial dos minigames
+	
+	
+	
+	Ajustar o tamanho da tela em modo janela, dependendo do tamanho do monitor
+	
+	Bug colisão nas mesas (só acontece em altas velocidades no modo debug)
+	
+	Bug segurar duas setas da mesma direção e soltar uma (precisaria mudar a estrutura das funções de remapeamento de teclas)
+
+
+	AO FINAL LEMBRAR DE ATIVAR O RANDOMIZER
+	
+	
+	Procurar sons/músicas:
+		Introdução: X
+		
+		Menu: X
+		
+		Database: X
+		
+	
+		Quiz: FEITO
+		
+		Prog: X
+		
+		HTML: X
+		
+		Mapc: X
+		
+		Rede: FEITO
+		
+		Agro: X
+		
+		Pecu: X
+		
+		Reci: X
+		
+		Mole: X

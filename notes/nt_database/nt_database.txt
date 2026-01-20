@@ -1,0 +1,40 @@
+Fazer agora: Acrescentar novas opções de customização
+
+
+	Falta: 
+	
+		Fazer um teste de conecção ou só ao consultar no hub (provavelmente vai dar problema ao cair a net no hub no meio de uma consulta)
+		indicar no hub quando a consulta der erro, o acionador pode ser no Async Social do query no else
+		Permitir nomes com acento
+	
+
+
+
+Ler sobre validação de email
+
+
+
+Botar um timer nas ações que alterem o banco de dados
+
+SE PRECISAR, FAZER UM VARIAVEL DE CONTROLE DE "RESPOSTA", QUANDO CHAMAR UM CONEXÃO ELA É FALSE E QUANDO RECEBER A RESPOSTA DA CONEÇÃO É TRUE
+
+A primeira coisa requerida é o email, caso já esteja no banco: login, caso não: criar um novo
+Dados salvos:
+	email
+	senha
+	nome
+	idade
+	cidade
+	cursos terminados (dados entregues pelo jogo)
+	lista com as opções de customização ([[spr_head1, c_red], [spr_body2, c_blue], [spr_leg1, c_white]])
+
+Colisões:
+Npcs com 2 ou mais coisas iguais, fazem um "aperto de mão" (menos o email e senha)
+Npcs com a mesma coisa favorita, fazem um "toca aqui"
+Npcs com as mesmas duas coisas de cima, fazem um "mega toca aqui"
+
+Dar para segurar um npc e muda-lo de lugar
+O npc que o player criou vai ter uma outline branca, vai ficar salvo o id do npc que o player criou, caso ele troque de dispositivo ou perca essa dado, ele pode logar
+
+
+explicar os thempletes da personalização

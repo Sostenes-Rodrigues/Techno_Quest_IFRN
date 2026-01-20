@@ -1,0 +1,1 @@
+sprite_index = spr_int_trigger_quiz

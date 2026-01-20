@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nt_lembretes_do_projeto",
+  "name":"nt_lembretes_do_projeto",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

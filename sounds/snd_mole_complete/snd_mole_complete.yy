@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_mole_complete",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":1.0448979,
+  "name":"snd_mole_complete",
+  "parent":{
+    "name":"group_geral",
+    "path":"folders/Sounds/sounds_mini_games/sounds_mole/group_geral.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_mole_complete.mp3",
+  "type":0,
+  "volume":1.0,
+}

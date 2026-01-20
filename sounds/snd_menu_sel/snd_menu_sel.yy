@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_menu_sel",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.038027212,
+  "name":"snd_menu_sel",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_menu_sel.wav",
+  "type":0,
+  "volume":1.0,
+}

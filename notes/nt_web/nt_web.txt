@@ -1,0 +1,13 @@
+DEPOIS: 
+	
+	
+	
+
+
+
+Outros lembretes:
+	Ciclo dos pedidos:
+		1°: anda até a sala
+		2°: fala o pedido, cria uma caixa de confirmar que faz ele ir embora
+		3°: Tocar o sino faz chamar o cliente
+		4°: recebe e avalia

@@ -1,0 +1,1 @@
+//export_avatar_png("avatar" + string(delta_time + irandom(1000)) + ".png", 0, 1, 1)

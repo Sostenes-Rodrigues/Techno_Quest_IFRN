@@ -1,0 +1,1 @@
+segurando = false

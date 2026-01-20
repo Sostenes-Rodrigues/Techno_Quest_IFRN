@@ -1,0 +1,88 @@
+Quiz:
+1°: Escolha usando o click esquerdo do mouse a resposta correta da pergunta entre 4 alternativas.
+IMG: Em cima um pseudo da pergunta e em baixo 3 botões com um X e um com "correto".
+2°: Erros resultaram em redução do seu número de vidas, se suas vidas acabarem o jogo reiniciará.
+IMG: 3 corações com um estando partido.
+3°: O jogo também irar reiniciar caso o tempo límite esgote (não adianta pausar o jogo, espertinho).
+IMG: A barra do tempo e uma ampulheta.
+
+HTML e CSS:
+1°: Dentro do papel de um Dev front-end, aceite pedidos para criar sites e cumpra todos os seus requerimentos (hoje seu assistente conseguiu 3 clientes para você).
+IMG: A tela da esquerda centralizada, com o assistente e o balão de dialogo
+2°: Utilize das seguintes funcionalidades no seu painel da direita: pincel, borracha, preenchimento de tela, conta gotas, inserir (parágrafo, título e imagem) e reset.
+IMG: Mesma coisa de cima, mas na tela da direita
+3°: Logo em baixo, terá um mini painel para selecionar a cor desejada, abra-o usando o botão esquerdo do mouse.
+IMG: Cursor abrindo e fechando o painel
+4°: Utilize a rodinha do mouse para aumentar ou diminuir o tamanho da sua área de interração.
+IMG: Cursor com um circulo em volta que troca de tamanho
+
+Programação:
+1°: Esse aqui é o Amilton o robozinho, ele precisa de sua ajuda para completar os níveis e seguir adiante Você precisa selecionar ações para ele fazer, essas ações podem ser selecionadas a partir dessas caixas de categoria e devem ser levadas até a fila da direita.
+IMG: Mostrar pegando as ações e levando para a direita e apertando play
+2°: Caso faça uma seleção equivocada você sempre pode mudar a ordem ou arrastar para a lixeira.
+IMG: Mostre jogando na lixeira e mexendo na ordem das ações
+=========================================================
+3°: Caixas são obstáculos bem comuns, elas podem ser criadas ou destruídas usando a segunda categoria para ações de interação.
+IMG: Mostre oque as 2 ações na categoria de interação fazem
+=========================================================
+4°: Existem botões que precisam ser pressionados para poder abrir a saída de algumas fases botões pequenos requerem que o Amilton passe por cima deles Botões grandes requerem que o Amilton coloque uma caixa em cima deles.
+IMG: Tela dividida, de um lado Amilton em cima do botão e um X, do outro uma caixa em cima do botão e um símbolo de acerto
+=========================================================
+5°: Fases um pouco maiores precisam de um pouco mais de movimentos e ações, por isso com a terceira categoria você pode usar repetições. Repetições voltam o caminho das ações ao ponto desejado selecionando com o botão direito do mouse na repetição.
+IMG: Demonstre apertar com o botão na repetição e alterar o que há de ser repetido
+
+Descontaminação:
+1°: Evite que diversos objetos contaminem um ambiente, impedindo que o medidor de poluição chegue em 100%.
+IMG: Na esquerda o medidor baixo e no meio um lixo, na troca de imagem, o medidor aumenta e o lixo espalha poluição.
+2°: Arraste os objetos para o descarte usando o botão esquerdo do mouse, mas cuidado, cada objeto tem uma categoria e deve ser jogada no recipiente respectivo.
+IMG: A lixeira em baixo, lixo no meio com o mouse segurando, depois o mouse com o lixo próximos da lixeira.
+3°: As categorias são: Produtos de Limpeza, Imflamáveis, Tóxicos, Corrosivos e Radioativos. Os objetos radioativos são instáveis e devem ser descados o mais rápido possível.
+IMG: Todas as lixeiras infileiradas.
+4°: Consiga proteger essa área pelo tempo estabelecido para ganhar.
+IMG: O espaço vibrando a maravilha da natureza.
+
+Criação de moléculas:
+1°: Conclua as listas de elementos e moléculas a direita da tela, selecionando um item da lista com o mouse (se ele estiver desbloqueado) você poderá ver algumas de suas características.
+IMG: A esquerda o pergaminho e a direita as listas.
+2°: Embaixo terá 3 recipientes com as menores matérias do universo: prótons (+), nêutrons (n) e  eletrons (-). A esquerda embaixo tem um botão de reset para limpar o ambiente, voltando tudo aos recipientes.
+IMG: A esquerda o botão de reset e a direita os 3 recipientes.
+3°: No meio da tela, encontrasse o local para fazer os processos, o quadrado na esquerda é o espaço de entrada e o círculo na direita é o espaço de saída, você pode arrastar todas as matérias na tela para esses espaços e usar 3 botões.
+IMG: O quadrado, a seta e a bola.
+4°: O primeiro botão é o de juntar, coloque os materiais no quadrado e se tiver algo exato com aquela composicão, será criado dentro do círculo, o segundo separa UMA matéria dentro do circulo em seus componentes e o terceiro cria a matéria que estiver selecionada na lista se os matériais estiverem na tela.
+IMG: Em baixo os 3 botões e em cima o meio de transpormação alternando na esquerda 3 bolinhas e na direita um bolão.
+5°: No canto superior esquerdo terá um ícone de lâmpada, vocé pode aciona-lo para mostrar um guia da próxima criação que deve ser feita.
+IMG: O botão lâmpada ligado com a receita e desligado.
+
+Agro:
+1°: Primeiramente controle um trator e limpe toda grama alta no terreno.
+IMG: No meio o trator, esquerda grama cortada e direita grama alta.
+2°: Depois plante arrastando as mudas, regue e proteja seus tomates dos insetos com agrotóxicos (cuidado para não exagerar).
+IMG: Muda -> regador -> inseto morto no chão tomando sprai de cima.
+3°: Depois vá para a fábrica e processe sua colheita apertando "espaço" ou "enter" quando eles estiverem no meio de uma máquina.
+IMG: Máquina no meio, tomate antes, ketchup depois.
+
+Pecuária:
+1°: Leve o gado para o currau enquanto desvia dos obstáculos usando as setinhas de cima e baixo ou W e S.
+IMG: Desenhar os 3 caminhos, o gado vai está na do meio, vai ter um rastro na diagonal superior esquerda atrás do gado para dizer que ele veio de cima, colocar uns obstáculos pelos caminhos.
+2°: Der diagnósticos para as vacas com algum problema, escolha entre "pé dilúvio" (um método para desinfectar os cascos), "anti carrapato" (dar banho com um produto que livra o animal dos carrapatos) e "vacinação" (se o animal apresentar manchas, aplique a vacina contra Dermatofilose).
+IMG: A vaca no meio com os 3 problemas, indicadores de zoom para visualizar os problemas e os 3 botões.
+3°: Tire o leite das vacas pressionando as tetas com o mouse, alterne entre elas para não sobrecarregar uma.
+IMG: Teta em cima, mouse em uma, na troca a teta que está no mouse um pouco puxada.
+4°: Depois vá para a fábrica e processe os gados marcados para abate apertando "espaço" ou "enter" quando eles estiverem no meio de uma máquina.
+IMG: Máquina no meio, gado antes, hamburger depois.
+
+Rede doméstica:
+1°: Enquanto estava fora, seus sobrinhos bargunçaram todas as coxeções da casa, agora você precisa fazer que tudo volte a funcionar (siga a lista no canto superior direito).
+IMG: Recriar a sala e fazer a lista esconder e aparecer.
+2°: Use o botão esquerdo do mouse para interagir com o cenário.
+IMG: Um cursor em cima de um cabo pegando-o e no click fazer um 3 tracinhos como efeito
+3°: Embaixo você pode exibir ou esconder seu inventário que guarda os cabos achados, segure um item e solte onde deseja usa-lo.
+IMG: Fazer o inventario aberto com um cabo e o depois o cabo sendo segurado pelo cursor
+
+Manutenção de PCs:
+1: Monte computadores, clientes irão fazer pedidos de peças específicas, verifique as peças pedidas no painel abaixo.
+IMG: Mostra o desenho dos pedidos.
+2: Pegue as peças requeridas nas gavetas à esquerda e as encaixe na placa-mãe. As peças trabalhadas serão das seguintes categorias: memória RAM [1], placa de rede [2], placa de vídeo [3], armazenamento [4], processador [5] e cooler [6].
+IMG: Na esquerda as gavetas, no meio pro lado um tipo de cada peça numerada e na direta a placa mãe com os slot também numerados.
+3: Após colocar o processador, feche sua trava (acionada por um botanzinho a sua direta) e encaixe o cooler em cima. Após completar tudo aperte o botão no canto inferior direito para entregar o pedido.
+IMG: Lado esquero, abrindo e fechando a trava, lado direito, colocando o cooler.

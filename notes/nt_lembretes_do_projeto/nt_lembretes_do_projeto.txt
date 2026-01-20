@@ -1,0 +1,33 @@
+OBJs persistentes que estão em todo momento do jogo:
+	obj_pause
+	obj_camera
+	
+
+Conf dos saves:
+	{
+		course_choice: string do curso escolhido ("agro", "info", "manu", "quimic") ou 0 caso não tenha cido escolhido,
+		last_rm: ,
+		c_quiz: ,
+		c_prog: ,
+		c_html: ,
+		c_agro: ,
+		c_pecu: ,
+		c_reci: ,
+		c_mole: ,
+		c_rede: ,
+		c_mapc:
+	}
+	
+Conf do save das confihurações gerais:
+	{
+		vol_g: porcentagem do volume geral (de 0 a 1 [0% a 100%]),
+		vol_m: porcentagem do volume da música (de 0 a 1 [0% a 100%]),
+		win_f: para guadar se o jogo estava em tela cheia ou não (true ou false),
+		
+	}
+
+
+1°: Olhar se nas rooms tem código de criação
+2°: Na nota de tarefas, nunca apagar uma tarefa feita, e sim marca-la como concluida
+3°: Não terá botão de pause, para pausar será necessario só apertar "Esc"
+4°: Colocar em todos os locais de interração com o mouse, o cursor de "pode ser apertado"

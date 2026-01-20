@@ -1,0 +1,93 @@
+DEPOIS: Colocar as novas sprites (procurar real life e diminuir a qualidade)
+	
+	
+	
+	tamanhos 64*64
+	
+	
+	Novas Categorias:
+		RADIOATIVOS (visual: verde/amarelo, brilho, barril)
+
+		Objetos sugeridos:
+
+			Barril amarelo com símbolo nuclear
+
+			Caixa metálica com símbolo radioativo
+
+			Frasco cilíndrico brilhante verde neon
+
+			Placa de urânio fictícia (verde brilhante)
+
+			Por que não confundem:
+			Radioativo quase sempre usa símbolo nuclear, cores específicas, brilho e estética industrial.
+
+
+
+		Inflamáveis (visual: chama, metal, altas temperaturas)
+
+		Objetos sugeridos:
+
+			Lata de gasolina (vermelha com bico)
+
+			Lata de solvente químico (prata/azul com símbolo de chama)
+
+			Garrafa de 51
+
+			Spray aerossol pressurizado
+
+			Por que não confundem:
+			Inflamáveis têm formatos metálicos/latas ou frascos com ícone de chama — nada a ver com produtos de limpeza ou tóxicos.
+
+
+
+		TÓXICOS (visual: caveira, veneno, líquido colorido)
+
+		Objetos sugeridos:
+
+			Frasco com caveira e ossos cruzados
+
+			Veneno de rato (caixinha preta/verde)
+
+			Frasco roxo de inseticida altamente tóxico
+
+			Recipiente com veneno de cobra
+
+			Por que não confundem:
+			Usam símbolo de veneno, seringas, frascos pequenos, cores agressivas (roxo/verde).
+			Nada metálico como inflamáveis, nada verde-amarelo como radioativo.
+
+
+
+		RODUTOS DE LIMPEZA (visual: domésticos, plástico colorido, rótulos grandes)
+
+		Objetos sugeridos:
+
+			Detergente azul (garrafa plástica alta)
+
+			Água sanitária em garrafa branca/azul
+
+			Desengordurante de cozinha (spray trigger)
+
+			Amaciante em garrafa roxa grande
+
+			Por que não confundem:
+			Sempre são frascos plásticos domésticos, geralmente grandes, coloridos e com rótulos amigáveis.
+			Não têm caveiras, não têm chama, não brilham.
+
+
+
+		CORROSIVOS (visual: ácido derramando, queimando algo)
+
+		Objetos sugeridos:
+
+			Garrafa de ácido forte (rótulo preto e símbolo corroendo mão/superfície)
+
+			Frasco de soda cáustica industrial
+
+			Bidão de ácido sulfúrico estilizado
+
+			Frasco com etiqueta mostrando líquido corroendo metal
+
+			Por que não confundem:
+			Os símbolos de líquido corroendo uma mão e uma barra de metal são MUITO específicos.
+			Formatos são industriais, sérios e escuros.

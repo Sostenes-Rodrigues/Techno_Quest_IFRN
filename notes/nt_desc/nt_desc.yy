@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"nt_desc",
+  "name":"nt_desc",
+  "parent":{
+    "name":"notes_minigames",
+    "path":"folders/Notes/notes_minigames.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

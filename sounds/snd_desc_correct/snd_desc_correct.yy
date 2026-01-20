@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_desc_correct",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":112,
+  "compression":1,
+  "conversionMode":0,
+  "duration":1.0448979,
+  "name":"snd_desc_correct",
+  "parent":{
+    "name":"group_geral",
+    "path":"folders/Sounds/sounds_mini_games/sounds_desc/group_geral.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_desc_correct.mp3",
+  "type":0,
+  "volume":0.15,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_quiz_soundtrack",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":16.0,
+  "name":"snd_quiz_soundtrack",
+  "parent":{
+    "name":"group_music",
+    "path":"folders/Sounds/sounds_mini_games/sounds_quiz/group_music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_quiz_soundtrack.wav",
+  "type":0,
+  "volume":1.0,
+}

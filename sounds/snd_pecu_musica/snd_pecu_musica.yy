@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_pecu_musica",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":41.61306,
+  "name":"snd_pecu_musica",
+  "parent":{
+    "name":"group_music",
+    "path":"folders/Sounds/sounds_mini_games/sounds_pecu/group_music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_pecu_musica.mp3",
+  "type":0,
+  "volume":0.2,
+}
