@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_desc_lixo_corrosivos",
   "bboxMode":0,
   "bbox_bottom":116,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a9e68d6b-fc00-4596-a1d1-2e5dff3af817","name":"a9e68d6b-fc00-4596-a1d1-2e5dff3af817","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2cd2ed2e-3820-495e-8110-076f9e163369","name":"2cd2ed2e-3820-495e-8110-076f9e163369","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"787fb797-e386-4752-a724-8213e8006c3f","name":"787fb797-e386-4752-a724-8213e8006c3f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a9e68d6b-fc00-4596-a1d1-2e5dff3af817","name":"a9e68d6b-fc00-4596-a1d1-2e5dff3af817","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2cd2ed2e-3820-495e-8110-076f9e163369","name":"2cd2ed2e-3820-495e-8110-076f9e163369","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"787fb797-e386-4752-a724-8213e8006c3f","name":"787fb797-e386-4752-a724-8213e8006c3f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -72,15 +72,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9e68d6b-fc00-4596-a1d1-2e5dff3af817","path":"sprites/spr_desc_lixo_corrosivos/spr_desc_lixo_corrosivos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0fad269e-7763-45bd-bd3d-fde5f075b102","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2cd2ed2e-3820-495e-8110-076f9e163369","path":"sprites/spr_desc_lixo_corrosivos/spr_desc_lixo_corrosivos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"34d3fd24-cffd-406a-ae52-c09727af9b9d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"787fb797-e386-4752-a724-8213e8006c3f","path":"sprites/spr_desc_lixo_corrosivos/spr_desc_lixo_corrosivos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"099bee31-d86a-4a9e-8fbf-e54e19d83213","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9e68d6b-fc00-4596-a1d1-2e5dff3af817","path":"sprites/spr_desc_lixo_corrosivos/spr_desc_lixo_corrosivos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0fad269e-7763-45bd-bd3d-fde5f075b102","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"2cd2ed2e-3820-495e-8110-076f9e163369","path":"sprites/spr_desc_lixo_corrosivos/spr_desc_lixo_corrosivos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"34d3fd24-cffd-406a-ae52-c09727af9b9d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"787fb797-e386-4752-a724-8213e8006c3f","path":"sprites/spr_desc_lixo_corrosivos/spr_desc_lixo_corrosivos.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"099bee31-d86a-4a9e-8fbf-e54e19d83213","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

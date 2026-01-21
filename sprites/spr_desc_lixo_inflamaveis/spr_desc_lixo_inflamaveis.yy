@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_desc_lixo_inflamaveis",
   "bboxMode":0,
   "bbox_bottom":114,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0f6e56b6-4ffa-421f-8b99-5814c369fd4e","name":"0f6e56b6-4ffa-421f-8b99-5814c369fd4e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"040c93ec-652e-4f8d-980d-9bb8410fb946","name":"040c93ec-652e-4f8d-980d-9bb8410fb946","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0fd9ca97-1cc1-4418-9f39-e6469db537af","name":"0fd9ca97-1cc1-4418-9f39-e6469db537af","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0f6e56b6-4ffa-421f-8b99-5814c369fd4e","name":"0f6e56b6-4ffa-421f-8b99-5814c369fd4e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"040c93ec-652e-4f8d-980d-9bb8410fb946","name":"040c93ec-652e-4f8d-980d-9bb8410fb946","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0fd9ca97-1cc1-4418-9f39-e6469db537af","name":"0fd9ca97-1cc1-4418-9f39-e6469db537af","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -72,15 +72,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0f6e56b6-4ffa-421f-8b99-5814c369fd4e","path":"sprites/spr_desc_lixo_inflamaveis/spr_desc_lixo_inflamaveis.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6017c7b6-afeb-40f1-af53-6ef7acd7b05a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"040c93ec-652e-4f8d-980d-9bb8410fb946","path":"sprites/spr_desc_lixo_inflamaveis/spr_desc_lixo_inflamaveis.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6055f534-cb7a-473e-b089-0cb5bb27af50","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0fd9ca97-1cc1-4418-9f39-e6469db537af","path":"sprites/spr_desc_lixo_inflamaveis/spr_desc_lixo_inflamaveis.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"72424ca4-e824-4913-a802-37cd94ec2ff5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0f6e56b6-4ffa-421f-8b99-5814c369fd4e","path":"sprites/spr_desc_lixo_inflamaveis/spr_desc_lixo_inflamaveis.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6017c7b6-afeb-40f1-af53-6ef7acd7b05a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"040c93ec-652e-4f8d-980d-9bb8410fb946","path":"sprites/spr_desc_lixo_inflamaveis/spr_desc_lixo_inflamaveis.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6055f534-cb7a-473e-b089-0cb5bb27af50","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0fd9ca97-1cc1-4418-9f39-e6469db537af","path":"sprites/spr_desc_lixo_inflamaveis/spr_desc_lixo_inflamaveis.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"72424ca4-e824-4913-a802-37cd94ec2ff5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

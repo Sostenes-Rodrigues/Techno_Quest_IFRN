@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_desc_lixo_radioativo",
   "bboxMode":0,
   "bbox_bottom":110,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e31d72e5-c2d3-4047-a8d5-c7a663ba7a64","name":"e31d72e5-c2d3-4047-a8d5-c7a663ba7a64","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3fc9441c-b9c1-422f-9aaa-7dbe392d4f2c","name":"3fc9441c-b9c1-422f-9aaa-7dbe392d4f2c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d56e278d-d50e-4c7b-85a1-a243fc2a384d","name":"d56e278d-d50e-4c7b-85a1-a243fc2a384d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e31d72e5-c2d3-4047-a8d5-c7a663ba7a64","name":"e31d72e5-c2d3-4047-a8d5-c7a663ba7a64","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3fc9441c-b9c1-422f-9aaa-7dbe392d4f2c","name":"3fc9441c-b9c1-422f-9aaa-7dbe392d4f2c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d56e278d-d50e-4c7b-85a1-a243fc2a384d","name":"d56e278d-d50e-4c7b-85a1-a243fc2a384d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -72,15 +72,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e31d72e5-c2d3-4047-a8d5-c7a663ba7a64","path":"sprites/spr_desc_lixo_radioativo/spr_desc_lixo_radioativo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2828dd19-6044-480d-881f-a9d99cdc2d13","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3fc9441c-b9c1-422f-9aaa-7dbe392d4f2c","path":"sprites/spr_desc_lixo_radioativo/spr_desc_lixo_radioativo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c57d2467-d8f9-47eb-af9a-62f2fab1a62f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d56e278d-d50e-4c7b-85a1-a243fc2a384d","path":"sprites/spr_desc_lixo_radioativo/spr_desc_lixo_radioativo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7b8cd52e-05e7-4fa9-b8bb-340c9a4b9dfe","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e31d72e5-c2d3-4047-a8d5-c7a663ba7a64","path":"sprites/spr_desc_lixo_radioativo/spr_desc_lixo_radioativo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"2828dd19-6044-480d-881f-a9d99cdc2d13","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3fc9441c-b9c1-422f-9aaa-7dbe392d4f2c","path":"sprites/spr_desc_lixo_radioativo/spr_desc_lixo_radioativo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c57d2467-d8f9-47eb-af9a-62f2fab1a62f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d56e278d-d50e-4c7b-85a1-a243fc2a384d","path":"sprites/spr_desc_lixo_radioativo/spr_desc_lixo_radioativo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"7b8cd52e-05e7-4fa9-b8bb-340c9a4b9dfe","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

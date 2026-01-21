@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"nt_modi_som",
   "name":"nt_modi_som",
   "parent":{

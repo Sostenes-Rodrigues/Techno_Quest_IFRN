@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"nt_lembretes_do_projeto",
   "name":"nt_lembretes_do_projeto",
   "parent":{

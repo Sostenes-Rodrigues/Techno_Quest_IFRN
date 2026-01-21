@@ -33,7 +33,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"slots_v","filters":[],"listItems":[],"multiselect":false,"name":"slots_v","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"9","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"slots_v","filters":[],"listItems":[],"multiselect":false,"name":"slots_v","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"9","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
